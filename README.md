@@ -19,4 +19,7 @@
   - deployment --> describes the desired state of Pods and manages their updates
   - service --> Exposes and application running on a set of pods to external traffic or internal componenets
   - config map & secrets --> tools to manage configuration and sensitive data respectively
-  - 
+
+  ## Tasks
+
+  
